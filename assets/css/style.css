@@ -9,6 +9,7 @@
   box-sizing: border-box;
 
 }
+
 /*genral styles*/
 body { 
   background: #e7dabc;
@@ -22,6 +23,8 @@ header {
   width: 100%;
   height: 300px;
   background: url("../images/pexels-johannes-plenio-1146706.jpg") no-repeat center center/cover;
+
+  
 }
 
 /*nav styles*/
@@ -35,11 +38,6 @@ nav {
   padding-left: 1em;
   font-size: 1.5em;
   letter-spacing: 2px;
-  
- 
-  
- 
- 
   
 }
 
@@ -62,20 +60,13 @@ nav {
 
 #about {
   margin-top: 30px;
-  
+  justify-content: center;
+  text-align: center;
   
 }
 
-#services {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  margin-top: 30px;
-  margin-right: 20px;
-  margin-left: 20px;
-  
-}
+
+
 
 h2 {
   font-size: 1.5em;
@@ -90,6 +81,19 @@ hr {
  border: 0.5px solid #000000;
 
   
+}
+
+#services div{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+ 
 }
 
 /*Footer*/
