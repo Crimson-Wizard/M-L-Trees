@@ -96,6 +96,44 @@ hr {
  
 }
 
+
+#contact {
+  background: url(../images/PXL_20220112_085501389.MP.jpg);
+  background-size: cover;
+  background-position: 75%;
+  background-repeat: no-repeat;
+  padding: 20px 10% 0 10%;
+    
+}
+
+#signup-form {
+  text-align: center;
+  color: #ffffff;
+  background-color: rgba(60, 60, 60, 0.6);
+  padding: 30px;
+}
+
+.text-input {
+  background: transparent;
+  color: #ffffff;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0px 5px 0px;
+  border: 1px solid #ffffff;
+  border-radius: 2px;
+
+}
+
+.text-input-info {
+  background: transparent;
+  color: #ffffff;
+  width: 100%;
+  height: 250px;
+  margin: 5px 0px 5px 0px;
+  border: 1px solid #ffffff;
+  border-radius: 2px;
+}
+
 /*Footer*/
 footer{
 font-size:15px;
