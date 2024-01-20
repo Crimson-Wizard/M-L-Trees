@@ -13,7 +13,7 @@
 body { 
   background: #e7dabc;
   min-height: 100vh;
-
+  font-family: 'Lato', sans-serif;
 
 }
 
@@ -27,23 +27,17 @@ header {
 /*nav styles*/
 #menu {
   letter-spacing: 2px;
-  font-size: 110%;
-  display: horisontal;
-  
-  
- 
- 
 }
+
 
 nav {
   width: 100%;
   padding-left: 1em;
-  display: flex;
-  justify-content: space-between;
-  font-family: 'Oswald', sans-serif;
   font-size: 1.5em;
   letter-spacing: 2px;
-  position: bottom;
+  
+ 
+  
  
  
   
@@ -55,6 +49,7 @@ nav {
     margin-left: 10px;
     padding: 10px;
     text-decoration: none;
+  
   }
  
   
@@ -62,14 +57,12 @@ nav {
 
 #menu li{
    list-style-type: none;
+ 
 }
 
 #about {
-  text-align: center;
   margin-top: 30px;
-  font-size: 1.5em;
-  letter-spacing: 2px;
-  color: #000000;
+  
   
 }
 
@@ -81,6 +74,14 @@ nav {
   margin-top: 30px;
   margin-right: 20px;
   margin-left: 20px;
+  
+}
+
+h2 {
+  font-size: 1.5em;
+  text-decoration: underline;
+  text-align: center;
+  letter-spacing: 2px;
   
 }
 
