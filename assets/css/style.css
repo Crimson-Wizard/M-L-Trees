@@ -22,6 +22,9 @@ body {
 header {
   width: 100%;
   background: url("../images/pexels-johannes-plenio-1146706.jpg") no-repeat center center/cover;
+  position: fixed;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+  
 
   
 }
@@ -59,6 +62,10 @@ h1 {
     text-decoration: none;
   
   }
+
+main {
+  margin-top:250px;
+}
  
   
 #about {
@@ -238,10 +245,7 @@ padding: 0 1rem;
   }
   
   
-  #about p {
-    padding-left: 150px;
-    padding-right: 150px;
-  }
+ 
 
   #team-smile {
     width: 350px;
