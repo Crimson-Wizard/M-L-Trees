@@ -40,14 +40,20 @@ nav {
  
 }
 
+nav a {
+ color: #1d350d;
+ text-decoration: none;
+}
+
+
 #menu li{
    list-style-type: none;
 
 }
 
 h1 {
-    font-size: 4rem;
-    color: #000000;
+    font-size: 3rem;
+    color:  #1d350d;
     margin-left: 10px;
     padding: 10px;
     text-decoration: none;
@@ -149,10 +155,10 @@ hr {
 footer{
 font-size:15px;
 text-align: center;
-  width: 100%;
-  bottom: 0;
-  right: 0;
-  z-index:3;
+width: 100%;
+bottom: 0;
+right: 0;
+z-index:3;
 padding: 0 1rem;
   }
 
@@ -186,7 +192,117 @@ padding: 0 1rem;
 
   nav {
     
+    display: block;
+    width: 100%;
+    padding-right: 15em;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    
+    
  
   }
 
+  #menu {
+    
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    
+  }
+
+  #logo {
+    font-size: ;
+  }
+
+  h1 {
+    font-size: 4rem;
+    color:  #1d350d;
+    margin-left: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+  }
+
+ div {
+   column-count: 2;
+   
+ }  
+
+  
 }  
+
+/*large tablet*/  
+@media screen and (min-width: 1024px){
+
+  nav {
+
+  display: block;
+  width: 100%;
+  padding-right: 25em;
+  font-size: 1.5em;
+  letter-spacing: 2px;
+
+
+
+  }
+
+  #menu {
+
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
+
+  }
+
+h1 {
+  font-size: 6rem;
+  color:  #1d350d;
+  margin-left: 10px;
+  padding: 10px;
+  text-decoration: none;
+
+}
+
+}
+
+/*desktop*/
+@media screen and (min-width: 1440px){
+
+  nav {
+
+  display: block;
+  width: 100%;
+  padding-right: 40em;
+  font-size: 1.5em;
+  letter-spacing: 2px;
+ }
+
+  #menu {
+
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
+
+  }
+
+  
+  h1 {
+    font-size: 7rem;
+    color:  #1d350d;
+    margin-left: 10px;
+    padding-left: 1em;
+    text-decoration: none;
+
+  }
+
+  #about p {
+    padding-left: 250px;
+    padding-right: 250px;
+  }
+
+  #team-smile {
+    width: 550px;
+    height: 499px;
+  }
+
+}
