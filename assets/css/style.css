@@ -113,42 +113,53 @@ hr {
   width: 250px;
 }
 
-
-#contact {
+/*#contact {
   background: url(../images/PXL_20220112_085501389.MP.jpg);
   background-size: cover;
   background-position: 75%;
   background-repeat: no-repeat;
   padding: 20px 10% 0 10%;
     
-}
+}*/
+
+/*cod e from love running*/
+
 
 #signup-form {
-  text-align: center;
-  color: #ffffff;
-  background-color: rgba(60, 60, 60, 0.6);
-  padding: 30px;
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+#signup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
 }
 
 .text-input {
-  background: transparent;
-  color: #ffffff;
-  width: 100%;
-  height: 25px;
-  margin: 5px 0px 5px 0px;
-  border: 1px solid #ffffff;
-  border-radius: 2px;
-
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
 }
 
-.text-input-info {
-  background: transparent;
-  color: #ffffff;
-  width: 100%;
-  height: 250px;
-  margin: 5px 0px 5px 0px;
-  border: 1px solid #ffffff;
-  border-radius: 2px;
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #454b1b;
+    color: #fafafa;
 }
 
 /*Footer*/
@@ -198,8 +209,7 @@ padding: 0 1rem;
     font-size: 1.5em;
     letter-spacing: 2px;
     
-    
- 
+
   }
 
   #menu {
@@ -210,9 +220,6 @@ padding: 0 1rem;
     
   }
 
-  #logo {
-    font-size: ;
-  }
 
   h1 {
     font-size: 4rem;
@@ -223,10 +230,24 @@ padding: 0 1rem;
 
   }
 
- div {
-   column-count: 2;
-   
- }  
+  #services {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+    
+  }
+  
+  
+  #about p {
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+
+  #team-smile {
+    width: 350px;
+    height: 299px;
+  }
+  
 
   
 }  
@@ -262,7 +283,17 @@ h1 {
   text-decoration: none;
 
 }
+  #about p {
+    padding-left: 250px;
+    padding-right: 250px;
+  }
 
+  #team-smile {
+    width: 450px;
+    height: 399px;
+  }
+
+  
 }
 
 /*desktop*/
@@ -272,7 +303,7 @@ h1 {
 
   display: block;
   width: 100%;
-  padding-right: 40em;
+  padding-right: 60em;
   font-size: 1.5em;
   letter-spacing: 2px;
  }
@@ -290,7 +321,7 @@ h1 {
     font-size: 7rem;
     color:  #1d350d;
     margin-left: 10px;
-    padding-left: 1em;
+    padding-left: 10px;
     text-decoration: none;
 
   }
@@ -304,5 +335,7 @@ h1 {
     width: 550px;
     height: 499px;
   }
+
+  
 
 }
