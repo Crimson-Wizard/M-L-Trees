@@ -162,18 +162,20 @@ h3 {
 
 
   #contact-info {
+    font-size: 2em;
     padding-top: 30px;
     padding-bottom: 30px;
     
   }
 
   #contact-info ~ p {
+    font-size: 2em;
     display: flex;
     justify-content: center;
   }
 
   #work-hr {
-    
+     font-size: 2em;
      padding-top: 30px;  
      padding-bottom: 30px;
     
@@ -181,6 +183,7 @@ h3 {
   }
 
   #table-hours {
+    font-size: 2em;
     display: flex;
     justify-content: center;
     text-decoration: underline;
