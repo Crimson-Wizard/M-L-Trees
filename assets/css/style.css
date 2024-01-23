@@ -167,13 +167,22 @@ h3 {
     
   }
 
+  #contact-info ~ p {
+    display: flex;
+    justify-content: center;
+  }
+
   #work-hr {
+    
      padding-top: 30px;  
      padding-bottom: 30px;
+    
   
   }
 
   #table-hours {
+    display: flex;
+    justify-content: center;
     text-decoration: underline;
    
   }
