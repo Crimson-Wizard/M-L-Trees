@@ -24,10 +24,10 @@
 
       <nav>
         <ul id=menu>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="form.html" class="active">Contact</a></li>
+          <li><a href="index.html">Home.</a></li>
+          <li><a href="#about">About.</a></li>
+          <li><a href="#services">Services.</a></li>
+          <li><a href="form.html" class="active">Contact.</a></li>
         </ul>
       </nav>
       
@@ -35,22 +35,57 @@
       
     </header>
 
-    <main>
+    <main id="form-main">
       <section id="contact">
         
-        <form id="signup-form" method="post" action="https://formdump.codeinstitute.net">
+        <form id="contact-form" method="post" action="https://formdump.codeinstitute.net">
           <h2>Contact Us</h2>
           <label for="fname">First name:</label>
-          <input type="text" id="fname" name="fname" class="text-input" required><br>
+          <input type="text" id="fname" name="fname" class="text-input" placeholder="Your First Name" required><br>
           <label for="lname">Last name:</label>
-          <input type="text" id="lname" name="lname" class="text-input" required><br>
+          <input type="text" id="lname" name="lname" class="text-input" placeholder="Your Last Name" required><br>
           <label for="email">Email:</label>
-          <input type="email" id="email" name="email_address" class="text-input" required><br>
-          <label for="message">Message:</label>
-          <input type="text" id="message" name="message" class="text-input-info" required><br>
+          <input type="email" id="email" name="email_address" class="text-input" placeholder="Your Email" required><br>
+          <label for="message">Message:</label><br>
+           <textarea id="message" name="message" class="text-input-message"  placeholder="Please including any information regarding the trees" rows="10" cols="40"></textarea><br>
+          <label for="quote">Quote</label>
+          <input type="radio" id="quote" name="radio" class="radio-input" checked>
+          <label for="info">Information</label>
+          <input type="radio" id="info" name="radio" class="radio-input">
+          <br>
+          
           <input type="submit" value="Submit">
-        </form>
-     </section>
+           </form>
+        
+     
+        <h2 id="contact-info">Contact Information</h2>
+        <p>Phone: 07885605998</p><br>
+        <p>Email: mikelawlorarb@outlook.com</p><br>
+        <p>Address: London, North West London, Hertfordshire, UK</p>
+
+       <h2 id="work-hr">Working Hours</h2>
+        <table id="table-hours">
+          <tr>
+            <th></th>
+            <th>Start</th>
+            <th>Finish</th>
+            <tr></tr>
+        
+            <th>Mon-Fri</th> 
+            <td>07.00</td>
+            <td>16.00</td>
+            <tr></tr>
+            <th>Sat-Sun</th> 
+            <td>09.00</td>
+            <td>16.00</td>
+          </tr>
+        </table>
+          
+        </section>
+        
+
+          
+          
     </main>
 
     <footer>
