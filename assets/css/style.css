@@ -20,13 +20,11 @@ body {
 
 /*header styles*/
 header {
+  display; flex;
   width: 100%;
   background: url("../images/pexels-johannes-plenio-1146706.jpg") no-repeat center center/cover;
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
-  
-
-  
-}
+  }
 
 /*nav styles*/
 #menu {
@@ -35,6 +33,8 @@ header {
 
 
 nav {
+  display: flex;
+  justify-content: flex-start;
   width: 100%;
   padding: 1em;
   font-size: 1em;
@@ -62,9 +62,7 @@ h1 {
   
   }
 
-/*main {
-  margin-top:250px;
-}*/
+
  
   
 #about {
@@ -77,7 +75,9 @@ h1 {
 }
 
 
-
+.hidden-heading {
+  display:none;
+}
 
 h2 {
   font-size: 1.5em;
@@ -93,20 +93,19 @@ h3 {
   padding-bottom: 10px;
 }
 
-/*horizontal lines*/
-hr {
- border: 0.5px solid #000000;
-
-  
+#our-services {
+   text-align: center;
 }
 
-#services div{
+
+
+#services div {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  gap: 10px;
   margin-top: 20px;
   margin-bottom: 5px;
   padding: 10px;
@@ -119,21 +118,12 @@ hr {
   width: 250px;
 }
 
-/*#contact {
-  background: url(../images/PXL_20220112_085501389.MP.jpg);
-  background-size: cover;
-  background-position: 75%;
-  background-repeat: no-repeat;
-  padding: 20px 10% 0 10%;
-    
-}*/
-
 /*cod e from love running*/
 
 
 #signup-form {
     color: #ffffff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 80, 60, 0.6);
     padding: 30px;
 }
 
@@ -183,6 +173,7 @@ padding: 0 1rem;
   justify-content: center;
   
 }
+
 #social-media-list {
   text-align:center;
   padding: 20px 0;
@@ -259,7 +250,7 @@ padding: 0 1rem;
 
   nav {
 
-  display: block;
+  display: flex;
   width: 100%;
   padding-right: 25em;
   font-size: 1.5em;
@@ -301,11 +292,12 @@ h1 {
 /*desktop*/
 @media screen and (min-width: 1440px){
 
+ 
+
   nav {
 
-  display: block;
+  display: flex;
   width: 100%;
-  padding-right: 61em;
   font-size: 1.5em;
   letter-spacing: 2px;
  }
@@ -315,6 +307,7 @@ h1 {
   display: flex;
   justify-content: space-evenly;
   text-align: left;
+  
 
   }
 
