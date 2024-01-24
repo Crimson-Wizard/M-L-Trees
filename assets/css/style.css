@@ -198,11 +198,21 @@ h3 {
    
   }
 
-  #gallery {
+  #gallery-videos {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
+    
+
+    
   }
+
+  #video-title {
+    padding: 20px;
+  }
+
+  
+  
     
 
   
@@ -292,7 +302,10 @@ padding: 0 1rem;
     height: 299px;
   }
   
-
+ #video {
+   width: 350px;
+   height: 299px;
+ }
   
 }  
 
@@ -333,6 +346,11 @@ h1 {
   }
 
   #team-smile {
+    width: 450px;
+    height: 399px;
+  }
+
+  #video {
     width: 450px;
     height: 399px;
   }
@@ -378,6 +396,11 @@ h1 {
   }
 
   #team-smile {
+    width: 550px;
+    height: 499px;
+  }
+
+  #video {
     width: 550px;
     height: 499px;
   }
