@@ -119,6 +119,14 @@ h3 {
 }
 
 
+#videos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  column-count: 2;
+}
+
+
 #form-main {
   display: flex;
   justify-content: center;
@@ -188,6 +196,12 @@ h3 {
     justify-content: center;
     text-decoration: underline;
    
+  }
+
+  #gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
     
 
