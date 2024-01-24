@@ -73,6 +73,9 @@ h1 {
   
   
 }
+  #about p {
+    padding: 10px;
+  }
 
 
 .hidden-heading {
