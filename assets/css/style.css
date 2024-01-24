@@ -210,6 +210,16 @@ h3 {
    
   }
 
+ #form-thanks {
+   dispaly: flex;
+   justify-content: center;
+   text-align:center;
+   font-size: 2em;
+   padding-top:150px;
+   padding-bottom: 500px;
+   font-style: italic;
+}
+
   #gallery-videos {
     display: flex;
     flex-direction: column;
