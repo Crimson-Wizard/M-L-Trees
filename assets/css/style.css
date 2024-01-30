@@ -274,10 +274,25 @@ max-height: 300px;
     grid-gap: 30px;
     }
 
+  #services p {
+    display: block;
+    width: 350px;
+   }
+
   #team-smile {
     width: 350px;
     height: 299px;
   }
+
+  #services p {
+    display: block;
+    width: 350px;
+   }
+
+  article > img {
+    width: 350px;
+    height: 450px;
+ }
   
  #video {
    width: 100%;
@@ -328,6 +343,16 @@ h1 {
     column-count: 2;
   }
 
+  #services p {
+    display: block;
+    width: 450px;
+   }
+
+  article > img {
+      width: 450px;
+      height: 550px;
+   }
+
   #video {
     width: 100%;
     max-width: 450px;
@@ -370,6 +395,17 @@ h1 {
     width: 550px;
     height: 499px;
   }
+
+  #services p {
+    display: block;
+    width: 550px;
+   }
+
+  article > img {
+      width: 650px;
+      height: 750px;
+   }
+
 
   #video {
     width:100%;
