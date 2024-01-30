@@ -66,6 +66,11 @@ h1 {
     padding: 10px;
     }
 
+#team-smile {
+  width: 250px;
+  height: 199px;
+  }
+
 .hidden-heading {
   display:none;
   }
@@ -102,6 +107,12 @@ h3 {
   display: block;
   width: 250px;
  }
+
+article > img {
+  width: 250px;
+  height: 350px;
+  
+}
 
 /*video section*/
 #gallery-videos {
