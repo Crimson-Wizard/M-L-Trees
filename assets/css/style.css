@@ -125,7 +125,7 @@ article > img {
   padding-right: 20px;
 }
 
-#video {
+.video {
 width: 100%;
 max-width: 250px;
 max-height: 300px;
@@ -301,7 +301,7 @@ max-height: 300px;
  }
 
   /*gallery section**/ 
- #video {
+ .video {
    width: 100%;
    max-width: 350px;
    max-height: 299px;
@@ -357,7 +357,7 @@ max-height: 300px;
    }
 
   /*gallery section**/ 
-  #video {
+  .video {
     width: 100%;
     max-width: 450px;
     max-height: 399px;
@@ -411,7 +411,7 @@ max-height: 300px;
    }
 
  /*gallery section**/  
-   #video {
+   .video {
     width:100%;
     max-width: 550px;
     max-height: 499px;
