@@ -226,6 +226,8 @@ max-height: 300px;
 
 #footer-logo{
   justify-content: center;
+  width: 100px;
+  height: 130px; 
 }
 
 #social-media-list {
