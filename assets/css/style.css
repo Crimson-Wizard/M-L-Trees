@@ -246,7 +246,8 @@ max-height: 300px;
 
 /*tablet*/
 @media screen and (min-width: 768px) {
-  
+
+  /*nav section*/
   nav {
     width: 100%;
     padding-right: 500px;
@@ -268,6 +269,13 @@ max-height: 300px;
     text-decoration: none;
     }
 
+  /*about section*/
+  #team-smile {
+    width: 350px;
+    height: 299px;
+  }
+
+   /*services section*/
   #services {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -279,21 +287,12 @@ max-height: 300px;
     width: 350px;
    }
 
-  #team-smile {
-    width: 350px;
-    height: 299px;
-  }
-
-  #services p {
-    display: block;
-    width: 350px;
-   }
-
   article > img {
     width: 350px;
     height: 450px;
  }
-  
+
+  /*gallery section**/ 
  #video {
    width: 100%;
    max-width: 350px;
@@ -305,8 +304,8 @@ max-height: 300px;
 /*large tablet*/  
 @media screen and (min-width: 1024px) {
 
+   /*nav section*/
   nav {
-
   width: 100%;
   padding-right: 25em;
   font-size: 1.5em;
@@ -314,35 +313,31 @@ max-height: 300px;
   }
 
   #menu {
-
   display: flex;
   justify-content: space-evenly;
   text-align: left;
+   }
 
-  }
-
-h1 {
+  h1 {
   font-size: 6rem;
   color:  #1d350d;
   margin-left: 10px;
   padding: 10px;
   text-decoration: none;
+  }
 
-}
+   /*about section*/
   #about p {
     padding-left: 250px;
     padding-right: 250px;
   }
-
+  
   #team-smile {
     width: 450px;
     height: 399px;
   }
 
-  #gallery-videos{
-    column-count: 2;
-  }
-
+  /*services section*/
   #services p {
     display: block;
     width: 450px;
@@ -353,26 +348,25 @@ h1 {
       height: 550px;
    }
 
+  /*gallery section**/ 
   #video {
     width: 100%;
     max-width: 450px;
     max-height: 399px;
   }
- 
 }
 
 /*desktop*/
 @media screen and (min-width: 1440px) {
 
+  /*nav section*/
   nav {
-
   width: 100%;
   font-size: 1.5em;
   letter-spacing: 2px;
- }
+  }
 
   #menu {
-
   display: flex;
   justify-content: space-evenly;
   text-align: left;
@@ -386,6 +380,7 @@ h1 {
     text-decoration: none;
   }
 
+  /*about section*/
   #about p {
     padding-left: 250px;
     padding-right: 250px;
@@ -396,6 +391,7 @@ h1 {
     height: 499px;
   }
 
+  /*services section*/
   #services p {
     display: block;
     width: 550px;
@@ -406,17 +402,18 @@ h1 {
       height: 750px;
    }
 
-
-  #video {
+ /*gallery section**/  
+   #video {
     width:100%;
     max-width: 550px;
     max-height: 499px;
-  }
+   }
 }
 
 /*large desktop*/
 @media screen and (min-width: 2560px) {
- 
+
+   /*nav section*/
   nav {
     padding-right: 88em
     }
