@@ -80,7 +80,7 @@ h1 {
 
 #team-smile {
  width: 250px;
- height: 199px;
+ /*height: 199px;*/
 }
 
 .hidden-heading {
@@ -122,7 +122,7 @@ h3 {
 
 article > img {
  width: 250px;
- height: 350px; 
+ /*height: 350px;*/
 }
 
 /*video section*/
@@ -289,7 +289,7 @@ h1 {
 /*about section*/
 #team-smile {
  width: 350px;
- height: 299px;
+ /*height: 299px;*/
 }
 
 /*services section*/
@@ -306,7 +306,7 @@ h1 {
 
 article > img {
  width: 350px;
- height: 450px;
+ /*height: 450px;*/
 }
 
 /*gallery section**/ 
@@ -351,7 +351,7 @@ h1 {
   
 #team-smile {
  width: 450px;
- height: 399px;
+ /*height: 399px;*/
 }
 
 /*services section*/
@@ -362,7 +362,7 @@ h1 {
 
 article > img {
  width: 450px;
- height: 550px;
+ /*height: 550px;*/
 }
 
 /*gallery section**/ 
@@ -406,7 +406,7 @@ h1 {
 
 #team-smile {
  width: 550px;
- height: 499px;
+ /*height: 499px;*/
 }
 
 /*services section*/
@@ -417,7 +417,7 @@ h1 {
 
 article > img {
  width: 650px;
- height: 750px;
+ /*height: 750px;*/
 }
 
 /*gallery section**/  
