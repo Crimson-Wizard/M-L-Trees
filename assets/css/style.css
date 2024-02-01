@@ -154,14 +154,14 @@ article > img {
 }
 
 #contact {
- padding-top: 30px;
- padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 #contact-form {
- color: #000000;
- background-color: rgba(60, 80, 60, 0.6);
- padding: 40px;
+  color: #000000;
+  background-color: rgba(60, 80, 60, 0.6);
+  padding: 40px;
 }
 
 .text-input {
@@ -175,51 +175,51 @@ article > img {
 }
 
 .text-input-message {
- color: #000000;
- width: 100%;
- height: 100px;
- margin: 5px 0
+  color: #000000;
+  width: 100%;
+  height: 100px;
+  margin: 5px 0
 }
 
 .radio-input {
- margin: 10px 0 30px 0;
+  margin: 10px 0 30px 0;
 }
 
 #contact-info {
- font-size: 1em;
- padding-top: 30px;
- padding-bottom: 30px; 
+  font-size: 1em;
+  padding-top: 30px;
+  padding-bottom: 30px; 
 }
 
 #contact-info ~ p {
- font-size: 1em;
- display: flex;
- justify-content: center;
+  font-size: 1em;
+  display: flex;
+  justify-content: center;
 }
 
 #work-hr {
- font-size: 1em;
- padding-top: 30px;  
- padding-bottom: 30px;
+  font-size: 1em;
+  padding-top: 30px;  
+  padding-bottom: 30px;
 }
 
 #table-hours {
- font-size: 2em;
- display: flex;
- justify-content: center;
- text-decoration: underline;
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
 }
 
 #form-thanks { 
- display: flex;
- justify-content: center;
- text-align:center;
- font-size: 2em;
- padding-top:150px;
- padding-bottom: 20px;
- padding-left: 10px;
- padding-right: 10px;
- font-style: italic;
+  display: flex;
+  justify-content: center;
+  text-align:center;
+  font-size: 2em;
+  padding-top:150px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-style: italic;
 }
 
 #return-button{
@@ -230,40 +230,40 @@ article > img {
 }
 
 #map {
- width: 100%;
- height: 300px;
+  width: 100%;
+  height: 300px;
 }
   
 /*Footer*/
 footer{
- font-size:15px;
- text-align: center;
- width: 100%;
- bottom: 0;
- right: 0;
- z-index:3;
- padding-top: 30px;
- padding-bottom: 30px;
+  font-size:15px;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+  z-index:3;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 #footer-logo{
- justify-content: center;
- width: 100px;
- height: 120px; 
+  justify-content: center;
+  width: 100px;
+  height: 120px; 
 }
 
 #social-media-list {
- text-align:center;
- padding: 20px 0;
- display: flex;
- justify-content: space-evenly;
- list-style-type: none;
+  text-align:center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
 }
 
 #social-media-list li {
- font-size: 1.5rem;
- color: #000000;
- margin: 0 1rem;
+  font-size: 1.5rem;
+  color: #000000;
+  margin: 0 1rem;
 }
 
 /*media queries*/
@@ -273,54 +273,52 @@ footer{
 
 /*nav section*/
 nav {
- width: 100%;
- padding-right: 500px;
- font-size: 1em;
- letter-spacing: 2px;
+  width: 100%;
+  padding-right: 500px;
+  font-size: 1em;
+  letter-spacing: 2px;
 }
 
 #menu {
- display: flex;
- justify-content: space-evenly;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 
 h1 {
- font-size: 4rem;
- color:  #1d350d;
- margin-left: 10px;
- padding: 10px;
- text-decoration: none;
+  font-size: 4rem;
+  color:  #1d350d;
+  margin-left: 10px;
+  padding: 10px;
+  text-decoration: none;
 }
 
 /*about section*/
 #team-smile {
- width: 350px;
- /*height: 299px;*/
+  width: 350px;
 }
 
 /*services section*/
 #services {
- display: grid;
- grid-template-columns: 1fr 1fr;
- grid-gap: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 30px;
 }
 
 #services p {
- display: block;
- width: 350px;
+  display: block;
+  width: 350px;
 }
 
 article > img {
- width: 350px;
- /*height: 450px;*/
+  width: 350px;
 }
 
 /*gallery section**/ 
 .video {
- width: 100%;
- max-width: 350px;
- max-height: 299px;
+  width: 100%;
+  max-width: 350px;
+  max-height: 299px;
 }
   
 }  
@@ -330,53 +328,51 @@ article > img {
 
 /*nav section*/
 nav {
- width: 100%;
- padding-right: 25em;
- font-size: 1.5em;
- letter-spacing: 2px;
+  width: 100%;
+  padding-right: 25em;
+  font-size: 1.5em;
+  letter-spacing: 2px;
 }
 
 #menu {
- display: flex;
- justify-content: space-evenly;
- text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
 }
 
 h1 {
- font-size: 6rem;
- color:  #1d350d;
- margin-left: 10px;
- padding: 10px;
- text-decoration: none;
+  font-size: 6rem;
+  color:  #1d350d;
+  margin-left: 10px;
+  padding: 10px;
+  text-decoration: none;
 }
 
 /*about section*/
 #about p {
- padding-left: 250px;
- padding-right: 250px;
+  padding-left: 250px;
+  padding-right: 250px;
 }
   
 #team-smile {
- width: 450px;
- /*height: 399px;*/
+  width: 450px;
 }
 
 /*services section*/
 #services p {
- display: block;
- width: 450px;
+  display: block;
+  width: 450px;
 }
 
 article > img {
- width: 450px;
- /*height: 550px;*/
+  width: 450px;
 }
 
 /*gallery section**/ 
 .video {
- width: 100%;
- max-width: 450px;
- max-height: 399px;
+  width: 100%;
+  max-width: 450px;
+  max-height: 399px;
 }
   
 }
@@ -386,52 +382,50 @@ article > img {
 
 /*nav section*/
 nav {
- width: 100%;
- font-size: 1.5em;
- letter-spacing: 2px;
+  width: 100%;
+  font-size: 1.5em;
+  letter-spacing: 2px;
 }
 
 #menu {
- display: flex;
- justify-content: space-evenly;
- text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: left;
 }
 
 h1 {
- font-size: 7rem;
- color:  #1d350d;
- margin-left: 10px;
- padding-left: 10px;
- text-decoration: none;
+  font-size: 7rem;
+  color:  #1d350d;
+  margin-left: 10px;
+  padding-left: 10px;
+  text-decoration: none;
 }
 
 /*about section*/
 #about p {
- padding-left: 250px;
- padding-right: 250px;
+  padding-left: 250px;
+  padding-right: 250px;
 }
 
 #team-smile {
- width: 550px;
- /*height: 499px;*/
+  width: 550px;
 }
 
 /*services section*/
 #services p {
- display: block;
- width: 550px;
+  display: block;
+  width: 550px;
 }
 
 article > img {
- width: 650px;
- /*height: 750px;*/
+  width: 650px;
 }
 
 /*gallery section**/  
 .video {
- width:100%;
- max-width: 550px;
- max-height: 499px;
+  width:100%;
+  max-width: 550px;
+  max-height: 499px;
 }
   
 }
@@ -441,7 +435,7 @@ article > img {
 
 /*nav section*/
 nav {
- padding-right: 88em
+  padding-right: 88em
 }
   
 }
