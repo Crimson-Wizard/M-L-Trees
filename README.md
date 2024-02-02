@@ -77,10 +77,29 @@ The website is currently ready to go live however in the future i would like to 
 
 ## Testing 
 
-**Validator Testing**
+### **Validator Testing**
+
+**Main Page HTML Validation**
+![image of main page validation](readme-docs/main-page.validation.webp)
+
+**Form HTML Validation**
+![image of form validation](readme-docs/form-validation.webp)
+
+**Form Reply HTML Validation**
+![image of form reply validation](readme-docs/form-reply-validation.webp)
+
+**Css Validation**
+- w3c css validation service using jigsaw validator.
+![image of css validation](readme-docs/css-validation.webp)
+- 
+### **Bugs & how they where fixed**
 
 
-**Bugs & how they where fixed**
+**Form Reply Bug**
+![image of error message](readme-docs/form-reply-bug.webp)
+- Error in form-reply, button cannot be contained in hyperlink
+- To fix this i went into the html code and change code to a form with a button contained within:
+  
 
 
 ## Deployment 
