@@ -299,11 +299,6 @@ h1 {
 }
 
 /*services section*/
-#services {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 30px;
-}
 
 #services p {
   display: block;
