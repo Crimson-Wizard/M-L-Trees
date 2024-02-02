@@ -4,8 +4,6 @@
 
 M.L Trees is a site that will be used for customers requiring domestic tree work in the Hertforshire area. The aim is for potential customers to be able to vist the site to request a qoute or information regarding a tree and get a brief understanding of who they will be hiring and the kind of work that can be carried out.
 
-The website is currently ready to go live however in the future i would like to add a customer testimonials section once customer feedback has been collected. 
-
 ![image of respomsive design](readme-docs/responsive.design.png)
 
 ## Features
@@ -74,6 +72,11 @@ The website is currently ready to go live however in the future i would like to 
 - Once the details of the form have been filled and sent the customer will be taken to a message to acknoledge the submition of the form.
 - Button to be taken back to main page of site
 ![image of thank you message and return button](readme-docs/thank-you-message.webp)
+
+**Features left To Implement**
+ - Customer testimonials.
+   
+The webpage in its curent state is fully functional and achives all the goals id like it too. I would like to revist in the future to adsd a testimonials page once i have customer feedback.
 
 ## Testing 
 
