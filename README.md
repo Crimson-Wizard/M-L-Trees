@@ -68,10 +68,38 @@ The website is currently ready to go live however in the future i would like to 
 - Display opperating hours for customers information.
   ![image of working hours](readme-docs/working-hours.webp)
 
+## Contact Reply Page
+
+**Form Reply**
+- Once the details of the form have been filled and sent the customer will be taken to a message to acknoledge the submition of the form.
+- Button to be taken back to main page of site
+![image of thank you message and return button](readme-docs/thank-you-message.webp)
+
+## Testing 
+
+**Validator Testing**
 
 
+**Bugs & how they where fixed**
 
 
-   
+## Deployment 
+The site was deployed using github. THe steps i took to achive this are as follows:
+- In the left hand menu i selected pages.
+- selected main branch from drop down menu and clicked save.
+- Github then displayed a message saying the deployment was successful.
 
+You can vist the live page here: [M.L. Trees live webpage](https://crimson-wizard.github.io/M-L-Trees/)
+ 
 
+## Credits
+
+**Content**
+- The icons in the footer were taken from font awesome.
+- Map section is from google maps.
+- This site was made using Replit code editor
+
+**Media**
+- All photos used in about and services were taken by and owned by m.l trees.
+- All videos in the gallery section were taken by and owned by m.l trees.
+- Header image is from https://www.pexels.com
