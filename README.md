@@ -77,6 +77,8 @@ The website is currently ready to go live however in the future i would like to 
 
 ## Testing 
 
+The webpage has been tested on both Crome and Microsoft Edge. All links were tested and are working and videos tested and work correctly. I then went on to run the deployed source code through HTML and CSS validators, the resposne can be seen below. 
+
 ### **Validator Testing**
 
 **Main Page HTML Validation**
@@ -99,7 +101,27 @@ The website is currently ready to go live however in the future i would like to 
 ![image of error message](readme-docs/form-reply-bug.webp)
 - Error in form-reply, button cannot be contained in hyperlink
 - To fix this i went into the html code and change code to a form with a button contained within:
-  
+
+**Lighthouse**
+I have also run each page though lighthouse on both mobile and desktop.
+
+*Main Page*
+Desktop
+![desktop](readme-docs/main-desktop.webp)
+Mobile
+![Mobile](readme-docs/main-mobile.webp)
+
+*Form*
+Desktop
+![desktop](readme-docs/form-desktop.webp)
+Mobile
+![Mobile](readme-docs/form-mobile.webp)
+
+*Form Reply*
+Desktop
+![desktop](readme-docs/form-reply-desktop.webp)
+Mobile
+![Mobile](readme-docs/form-reply-mobile.webp)
 
 
 ## Deployment 
