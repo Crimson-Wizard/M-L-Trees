@@ -10,10 +10,41 @@ The website is currently ready to go live however in the future i would like to 
 
 ## Features
 
-**Navagation Bar**
-- Menu bar to help navigate the main page and link to the contact page
-- easily navigate to any section from all 3 pages
-- includes: Home, About, Services, Gallery and Contact
+[**Header**](https://crimson-wizard.github.io/M-L-Trees/index.html)
+- Company Name.
+- Image of a beech tree.
+- Navigation bar.
+
+[**Navagation Bar**](https://crimson-wizard.github.io/M-L-Trees/index.html)
+- Menu bar to help navigate the main page and link to the contact page.
+- Easily navigate to any section from all 3 pages.
+- Includes: Home, About, Services, Gallery and Contact.
+
+## Main Section 
+
+[**About Section**](https://crimson-wizard.github.io/M-L-Trees/#about)
+- Brief paragraph to give the cutomer knowledge about the company. 
+- Image of friendly and happy staff to give the customer a level of trust.
+
+![image of dan and mike looking happy](readme-docs/happy-team.webp)
+
+[**Services Section**](https://crimson-wizard.github.io/M-L-Trees/#services)
+- Break down of types of tree work that can be carried out.
+- Image with each service to help customer visualise the work.
+- Explanation of the work and bennefits.
+- All images kept inline to help flow of page content.
+
+![image of services](readme-docs/services-1.webp) 
+![image of services](readme-docs/Services2.webp)
+
+[**Gallery Section**](https://crimson-wizard.github.io/M-L-Trees/#gallery)
+- Video gallery for customer to view work being carried out.
+- Plus a humerous video that gives company personality.
+- Videos kept inline to continue flow of the page and content.
+
+![image of videos](readme-docs/video-gallery.webp)
+
+
 
 
 
