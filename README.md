@@ -44,6 +44,30 @@ The website is currently ready to go live however in the future i would like to 
 
 ![image of videos](readme-docs/video-gallery.webp)
 
+**Footer Section**
+- A map displaying Hertforshire where company is based.
+- Company tree logo.
+- Social media links so customers can follow and view on other platforms.
+
+![image of footer](readme-docs/footer-image.webp)
+
+
+## Contact Page
+
+[**Contact Form**](https://crimson-wizard.github.io/M-L-Trees/form.html)
+- Contact form gives the customer the oportunity to contact us with their name, email and a message about the work they would like carried out.
+- selectable button to show if its a quote for work or just information regarding a tree.
+
+![image of form](readme-docs/form.webp)
+
+**Contact Information**
+- Contains phone and email number should customer desire to contact directly.
+![image of contact information](readme-docs/contact-information.webp)
+
+**Working Hours**
+- Display opperating hours for customers information.
+  ![image of working hours](readme-docs/working-hours.webp)
+
 
 
 
