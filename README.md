@@ -84,21 +84,21 @@ The webpage has been tested on both Crome and Microsoft Edge. All links were tes
 
 ### **Validator Testing**
 
-**Main Page HTML Validation**
+**Main Page HTML Validation.**
 ![image of main page validation](readme-docs/main-page.validation.webp)
 
-**Form HTML Validation**
+**Form HTML Validation.**
 ![image of form validation](readme-docs/form-validation.webp)
 
-**Form Reply HTML Validation**
+**Form Reply HTML Validation.**
 ![image of form reply validation](readme-docs/form-reply-validation.webp)
 
 **Css Validation**
 - w3c css validation service using jigsaw validator.
+  
 ![image of css validation](readme-docs/css-validation.webp)
-- 
+  
 ### **Bugs & how they where fixed**
-
 
 **Form Reply Bug**
 ![image of error message](readme-docs/form-reply-bug.webp)
@@ -108,19 +108,19 @@ The webpage has been tested on both Crome and Microsoft Edge. All links were tes
 **Lighthouse**
 I have also run each page though lighthouse on both mobile and desktop.
 
-*Main Page*
+*Main Page.*
 Desktop
 ![desktop](readme-docs/main-desktop.webp)
 Mobile
 ![Mobile](readme-docs/main-mobile.webp)
 
-*Form*
+*Form.*
 Desktop
 ![desktop](readme-docs/form-desktop.webp)
 Mobile
 ![Mobile](readme-docs/form-mobile.webp)
 
-*Form Reply*
+*Form Reply.*
 Desktop
 ![desktop](readme-docs/form-reply-desktop.webp)
 Mobile
