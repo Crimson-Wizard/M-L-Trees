@@ -73,7 +73,7 @@ M.L Trees is a site that will be used for customers requiring domestic tree work
 - Button to be taken back to main page of site
 ![image of thank you message and return button](readme-docs/thank-you-message.webp)
 
-**Features left To Implement**
+**Future developments**
  - Customer testimonials.
    
 The webpage in its curent state is fully functional and achives all the goals id like it too. I would like to revist in the future to adsd a testimonials page once i have customer feedback.
@@ -104,11 +104,27 @@ The webpage has been tested on both Crome and Microsoft Edge. All links were tes
   
 ### **Bugs & how they where fixed**
 
-**Form Reply Bug**  
+**Lighthouse Perfomance**  
+
+![image of bad lighthouse perfromance](readme-docs/main-mopbile-bad.webp)  
+
+- Bad performance statistics in mobile lighthouse test.
+- To fix this issue i resized the header image and compressed the file to work with mobile first up to tablet. In media queries i then added a larger image for bigger screens.
+- This gave me a new performance rating of 80% which is in acceptable levels.
+ 
+**Form Reply Bug** 
+
 ![image of error message](readme-docs/form-reply-bug.webp)  
 
 - Error in form-reply, button cannot be contained in hyperlink
 - To fix this i went into the html code and change code to a form with a button contained within:
+
+**Duplicate id Error**  
+
+![image of id errors](readme-docs/duplicate-error.webp)  
+
+- To fix this issue i went back into my html and changed two of the id to class.
+- There were no further issues.   
 
 **Lighthouse**
 I have also run each page though lighthouse on both mobile and desktop.
@@ -120,7 +136,7 @@ Desktop
 
 Mobile  
 
-![Mobile](readme-docs/main-mobile.webp)
+![Mobile](readme-docs/main-mobile-good.webp)
 
 *Form.*
 Desktop 
