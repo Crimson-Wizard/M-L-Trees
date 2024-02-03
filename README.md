@@ -32,7 +32,7 @@ M.L Trees is a site that will be used for customers requiring domestic tree work
 - Explanation of the work and bennefits.
 - All images kept inline to help flow of page content.
 
-![image of services](readme-docs/services-1.webp) 
+![image of services](readme-docs/services-1.webp)   
 ![image of services](readme-docs/Services2.webp)
 
 [**Gallery Section**](https://crimson-wizard.github.io/M-L-Trees/#gallery)
@@ -56,11 +56,11 @@ M.L Trees is a site that will be used for customers requiring domestic tree work
 - Contact form gives the customer the oportunity to contact us with their name, email and a message about the work they would like carried out.
 - selectable button to show if its a quote for work or just information regarding a tree.
 
-![image of form](readme-docs/form.webp)
+  ![image of form](readme-docs/form.webp)
 
 **Contact Information**
 - Contains phone and email number should customer desire to contact directly.
-![image of contact information](readme-docs/contact-information.webp)
+  ![image of contact information](readme-docs/contact-information.webp)
 
 **Working Hours**
 - Display opperating hours for customers information.
@@ -141,6 +141,7 @@ You can vist the live page here: [M.L. Trees live webpage](https://crimson-wizar
 **Content**
 - The icons in the footer were taken from font awesome.
 - Map section is from google maps.
+- The submit and return to main page button code was used from https://www.cssbuttongenerator.com/
 - This site was made using Replit code editor
 
 **Media**
