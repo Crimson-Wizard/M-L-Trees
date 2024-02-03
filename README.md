@@ -59,12 +59,12 @@ M.L Trees is a site that will be used for customers requiring domestic tree work
   ![image of form](readme-docs/form.webp)
 
 **Contact Information**
-- Contains phone and email number should customer desire to contact directly.
-  ![image of contact information](readme-docs/contact-information.webp)
+- Contains phone and email number should customer desire to contact directly.  
+![image of contact information](readme-docs/contact-information.webp)
 
 **Working Hours**
-- Display opperating hours for customers information.
-  ![image of working hours](readme-docs/working-hours.webp)
+- Display opperating hours for customers information.  
+![image of working hours](readme-docs/working-hours.webp)
 
 ## Contact Reply Page
 
@@ -84,24 +84,29 @@ The webpage has been tested on both Crome and Microsoft Edge. All links were tes
 
 ### **Validator Testing**
 
-**Main Page HTML Validation.**
+**Main Page HTML Validation.** 
+
 ![image of main page validation](readme-docs/main-page.validation.webp)
 
-**Form HTML Validation.**
+**Form HTML Validation.**  
+
 ![image of form validation](readme-docs/form-validation.webp)
 
-**Form Reply HTML Validation.**
+**Form Reply HTML Validation.**  
+
 ![image of form reply validation](readme-docs/form-reply-validation.webp)
 
-**Css Validation**
-- w3c css validation service using jigsaw validator.
+**Css Validation**  
+
+- w3c css validation service using jigsaw validator.  
   
 ![image of css validation](readme-docs/css-validation.webp)
   
 ### **Bugs & how they where fixed**
 
-**Form Reply Bug**
-![image of error message](readme-docs/form-reply-bug.webp)
+**Form Reply Bug**  
+![image of error message](readme-docs/form-reply-bug.webp)  
+
 - Error in form-reply, button cannot be contained in hyperlink
 - To fix this i went into the html code and change code to a form with a button contained within:
 
@@ -109,21 +114,30 @@ The webpage has been tested on both Crome and Microsoft Edge. All links were tes
 I have also run each page though lighthouse on both mobile and desktop.
 
 *Main Page.*
-Desktop
+Desktop  
+
 ![desktop](readme-docs/main-desktop.webp)
-Mobile
+
+Mobile  
+
 ![Mobile](readme-docs/main-mobile.webp)
 
 *Form.*
-Desktop
+Desktop 
+
 ![desktop](readme-docs/form-desktop.webp)
-Mobile
+
+Mobile  
+
 ![Mobile](readme-docs/form-mobile.webp)
 
 *Form Reply.*
-Desktop
+Desktop 
+
 ![desktop](readme-docs/form-reply-desktop.webp)
-Mobile
+
+Mobile 
+
 ![Mobile](readme-docs/form-reply-mobile.webp)
 
 
